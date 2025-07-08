@@ -4,7 +4,7 @@ sum = number1 + number2
 difference = number1 - number2
 product = number1 * number2
 quoitent = number1/number2
-print(f'Sum of {number1} and {number2} is {sum}')
-print(f'Difference of {number1} and {number2} is {difference}')
-print(f'Product of {number1} and {number2} is {product}')
-print(f'Quoitent of {number1} and {number2} is {quoitent}')
+print(f'Addition of {number1} and {number2} is {sum}')
+print(f'Subtraction of {number1} and {number2} is {difference}')
+print(f'Multiplication of {number1} and {number2} is {product}')
+print(f'Division of {number1} and {number2} is {quoitent}')
