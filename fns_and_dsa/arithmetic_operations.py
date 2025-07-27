@@ -16,7 +16,7 @@ def perform_operation(num1, num2, operation):
     case "divide":
         if num2 == 0:
           print("DIVISION BY ZERO ERROR")
-        else:
+        elif num2 != 0:
           result = num1/num2
           print(f"Result: {result}")
     if __name__ == "__main__":
